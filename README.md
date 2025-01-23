@@ -8,10 +8,10 @@ O objetivo deste projeto é analisar as vendas da empresa Northwind por país, c
 
 Arquivos:
 
-Modelo conceitual do data warehouse.pdf
-Modelo lógico do data warehouse.pdf
-Script SQL para criação e inserção de dados no data warehouse.sql 
-Arquivo do Power BI com as visualizações interativas.pbxi
+Modelo_conceitual_dw.pdf
+Modelo_lógico_dw.pdf
+Script_SQL.sql 
+analise_visual.pbxi
 
 
 Tecnologias utilizadas:
